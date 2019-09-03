@@ -1,0 +1,7 @@
+.container {
+    width: 1024px;
+    margin: 0px auto;
+    background: #eeeeee;
+    height: 100%;
+    display: flex;
+}
